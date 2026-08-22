@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Awe 👋</h1>
+<h1 align="center">Hi, I'm Awe Oluwatimileyin 👋</h1>
 <h3 align="center">Backend / Serverless Engineer • AWS Specialist</h3>
 
 <p align="center">
